@@ -8,7 +8,7 @@ namespace Kursovaya_Bobrov
         public Form1()
         {
             InitializeComponent();
-
+            picDisplay.Image = new Bitmap(picDisplay.Width, picDisplay.Height);
 
             emitter.impactPoints.Add(new GravityPoint
             {
@@ -34,7 +34,7 @@ namespace Kursovaya_Bobrov
             // генерирую 500 частиц
 
         }
-        int counter = 0; // добавлю счетчик чтобы считать вызовы функции
+      
        
 
         // функция рендеринга
