@@ -1,0 +1,34 @@
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.exe
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.deps.json
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.runtimeconfig.json
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.dll
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.pdb
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.csproj.AssemblyReference.cache
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.Form1.resources
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.csproj.GenerateResource.cache
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.AssemblyInfoInputs.cache
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.AssemblyInfo.cs
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.csproj.CoreCompileInputs.cache
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.dll
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\refint\Kursovaya_Bobrov.dll
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.pdb
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.genruntimeconfig.cache
+C:\Users\Vaslot\source\repos\Kursovaya_Bobrov\obj\Debug\net6.0-windows\ref\Kursovaya_Bobrov.dll
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.exe
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.deps.json
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.runtimeconfig.json
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.dll
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\bin\Debug\net6.0-windows\Kursovaya_Bobrov.pdb
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.csproj.AssemblyReference.cache
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.Form1.resources
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.csproj.GenerateResource.cache
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.GeneratedMSBuildEditorConfig.editorconfig
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.AssemblyInfoInputs.cache
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.AssemblyInfo.cs
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.csproj.CoreCompileInputs.cache
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.dll
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\refint\Kursovaya_Bobrov.dll
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.pdb
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\Kursovaya_Bobrov.genruntimeconfig.cache
+E:\2Курс\Технологии программирования\Kursovaya_Bobrov\obj\Debug\net6.0-windows\ref\Kursovaya_Bobrov.dll
